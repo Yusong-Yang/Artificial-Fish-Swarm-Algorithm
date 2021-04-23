@@ -1,6 +1,19 @@
 # Artificial-Fish-Swarm-Algorithm
 This is Artificial Fish Swarm Algorithm example for MATLAB
  
+  AF_init： Initialize the fish swarms function
+
+  AF_prey： Foraging fish school function
+
+  AF_swarm： Cluster behavior function
+
+  AF_follow： Rear-end behavior function
+
+  AF_dist： Calculate the distance function of individual fish school
+
+  AF_foodconsistence： Food concentration function at current location
+  
+  
   N： Size of artificial fish
   
   {X_i}：  Status and location of individual artificial fish
@@ -21,17 +34,7 @@ This is Artificial Fish Swarm Algorithm example for MATLAB
 
   MAXGEN： The maximum number of iterations
 
-  AF_init： Initialize the fish swarms function
-
-  AF_prey： Foraging fish school function
-
-  AF_swarm： Cluster behavior function
-
-  AF_follow： Rear-end behavior function
-
-  AF_dist： Calculate the distance function of individual fish school
-
-  AF_foodconsistence： Food concentration function at current location
+  
 
 
   
